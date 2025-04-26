@@ -1,0 +1,50 @@
+# Questions pour le Client - Mentorat Simplon
+
+## 1. Objectifs et Motivations
+- Pourquoi souhaitez-vous mettre en place un système de mentorat ?
+- Quels sont les principaux problèmes que vous espérez résoudre avec le mentorat ?
+- Quelles sont vos attentes vis-à-vis du mentorat ?
+  - [ ] Amélioration des compétences techniques
+  - [ ] Insertion professionnelle
+  - [ ] Développement personnel
+  - [ ] Création d'une communauté
+  - [ ] Autre (précisez)
+- Quels sont les indicateurs de succès pour vous ?
+
+## 2. Contexte Actuel
+- Comment fonctionne actuellement l'accompagnement des apprenants ?
+- Quelles sont les difficultés actuelles des apprenants ?
+- Quelles sont les difficultés actuelles des alumnis ?
+- Quelles solutions avez-vous déjà essayées ?
+
+## 3. Besoins et Attentes
+- Quels sont les besoins spécifiques des apprenants ?
+- Quels sont les besoins spécifiques des alumnis ?
+- Quelles sont les contraintes principales à prendre en compte ?    
+- Quelles sont vos priorités absolues ?
+
+## 4. Vision à Long Terme
+- Comment voyez-vous l'évolution du mentorat dans 6 mois ?
+- Quelles sont vos craintes principales ?
+- Quels sont vos espoirs principaux ?
+
+## 5. Support et Plateforme
+- Quel support souhaitez-vous utiliser pour le mentorat ?
+  - [ ] Plateforme existante (Discord, Slack, etc.)
+  - [ ] Nouvelle plateforme dédiée
+  - [ ] Solution hybride (plusieurs supports)
+- Quels sont vos critères pour le choix du support ?
+  - [ ] Intégration avec les outils existants (Discord)
+  - [ ] Possibilité de visioconférence
+  - [ ] Partage de documents
+  - [ ] Autre (précisez)
+
+## 6. Organisation des Sessions
+- Comment souhaitez-vous gérer la planification des sessions ?
+- Faut-il prévoir un système de rappel automatique ?
+- Souhaitez-vous un suivi des sessions (notes, feedback...) ?
+
+## 7. Suivi et Évaluation
+- Comment souhaitez-vous suivre l'efficacité des relations mentor/mentoré ?
+- Souhaitez-vous un système de feedback après chaque session ?
+- Faut-il prévoir des statistiques sur l'utilisation du mentorat ?
