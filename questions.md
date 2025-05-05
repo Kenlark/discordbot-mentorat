@@ -1,50 +1,63 @@
-# Questions pour le Client - Mentorat Simplon
+## 1. Vos objectifs
 
-## 1. Objectifs et Motivations
-- Pourquoi souhaitez-vous mettre en place un système de mentorat ?
-- Quels sont les principaux problèmes que vous espérez résoudre avec le mentorat ?
-- Quelles sont vos attentes vis-à-vis du mentorat ?
+- Qu’aimeriez-vous que ce système de mentorat apporte à la communauté Simplon ?
+- Avez-vous déjà observé des situations où un mentorat aurait été utile ?
+- Parmi ces éléments, lesquels vous semblent les plus importants ?
   - [ ] Amélioration des compétences techniques
   - [ ] Insertion professionnelle
   - [ ] Développement personnel
-  - [ ] Création d'une communauté
+  - [ ] Maintien d’un lien entre promotions
   - [ ] Autre (précisez)
-- Quels sont les indicateurs de succès pour vous ?
 
-## 2. Contexte Actuel
-- Comment fonctionne actuellement l'accompagnement des apprenants ?
-- Quelles sont les difficultés actuelles des apprenants ?
-- Quelles sont les difficultés actuelles des alumnis ?
-- Quelles solutions avez-vous déjà essayées ?
+---
 
-## 3. Besoins et Attentes
-- Quels sont les besoins spécifiques des apprenants ?
-- Quels sont les besoins spécifiques des alumnis ?
-- Quelles sont les contraintes principales à prendre en compte ?    
-- Quelles sont vos priorités absolues ?
+## 2.  Votre constat actuel
 
-## 4. Vision à Long Terme
-- Comment voyez-vous l'évolution du mentorat dans 6 mois ?
-- Quelles sont vos craintes principales ?
-- Quels sont vos espoirs principaux ?
+- Aujourd’hui, comment accompagnez-vous les apprenants au-delà des sessions de formation ?
+- Quels obstacles rencontrez-vous pour créer du lien entre anciens et actuels ?
+- Y a-t-il déjà eu des essais de mentorat ou d’accompagnement informel ? Qu’est-ce que ça a donné ?
 
-## 5. Support et Plateforme
-- Quel support souhaitez-vous utiliser pour le mentorat ?
-  - [ ] Plateforme existante (Discord, Slack, etc.)
-  - [ ] Nouvelle plateforme dédiée
-  - [ ] Solution hybride (plusieurs supports)
-- Quels sont vos critères pour le choix du support ?
-  - [ ] Intégration avec les outils existants (Discord)
-  - [ ] Possibilité de visioconférence
+---
+
+## 3. Vos besoins et contraintes
+
+- Qu’est-ce qui pourrait vraiment aider les apprenants dans leur parcours selon vous ?
+- Et côté alumnis, qu’est-ce qui pourrait les encourager à devenir mentors ?
+- Avez-vous des contraintes précises à me signaler (techniques, humaines, temps...) ?
+- Si je devais me concentrer sur une priorité pour ce projet, laquelle choisiriez-vous ?
+
+---
+
+## 4. Dans 6 mois...
+
+- Si ce projet réussit, à quoi ressemblerait un système de mentorat bien en place chez Simplon ?
+- Qu’est-ce qui vous ferait dire : *« ça fonctionne, on continue »* ?
+- Avez-vous des risques en tête à éviter absolument (perte de motivation, manque de suivi, etc.) ?
+
+---
+
+## 5. Plateforme & outils
+
+- Seriez-vous à l’aise avec un mentorat géré via Discord ?
+  - [ ] Oui
+  - [ ] Oui mais avec adaptations
+  - [ ] Non, autre préférence : __________
+
+- Avez-vous besoin de certaines fonctionnalités en particulier ?
+  - [ ] Intégration avec les outils que vous utilisez déjà
+  - [ ] Appels ou visioconférences possibles
   - [ ] Partage de documents
+  - [ ] Suivi ou reporting simple
   - [ ] Autre (précisez)
 
-## 6. Organisation des Sessions
-- Comment souhaitez-vous gérer la planification des sessions ?
-- Faut-il prévoir un système de rappel automatique ?
-- Souhaitez-vous un suivi des sessions (notes, feedback...) ?
+---
 
-## 7. Suivi et Évaluation
-- Comment souhaitez-vous suivre l'efficacité des relations mentor/mentoré ?
-- Souhaitez-vous un système de feedback après chaque session ?
-- Faut-il prévoir des statistiques sur l'utilisation du mentorat ?
+## 6. Organisation
+
+- Comment aimeriez-vous que les rendez-vous soient gérés ?
+  - [ ] À la main par les binômes
+  - [ ] Avec aide d’un outil de planification
+  - [ ] Automatisé au maximum
+
+- Seriez-vous intéressé par un petit système de feedback après chaque session ?
+- Un tableau de suivi ou des statistiques anonymisées vous sembleraient-ils utiles ?
