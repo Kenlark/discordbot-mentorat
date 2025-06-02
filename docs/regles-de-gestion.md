@@ -124,10 +124,6 @@
 
 **RG32** : Un mentor doit avoir au moins un domaine d'expertise en commun avec le mentoré
 
-**RG33** : Le mentoré et le mentor doivent avoir une langue commune
-
-**RG34** : Le mentor et le mentoré doivent avoir des créneaux compatibles
-
 **RG35** : Un mentor ne peut pas être associé par le matching à plus de x mentorés en même temps
 
 # 🧑‍🔧 Matching Manuel
