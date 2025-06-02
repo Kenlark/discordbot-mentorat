@@ -126,15 +126,14 @@
 **RG33** : Le mentoré et le mentor doivent avoir une langue commune
 **RG34** : Le mentor et le mentoré doivent avoir des créneaux compatibles
 **RG35** : Un mentor ne peut pas être associé par le matching à plus de x mentorés en même temps
-**RG36** :
 
 # 🧑‍🔧 Matching Manuel
 
-**RG37** : Une liste de tous les mentors peut être disponible aux mentorés
-**RG38** : Une liste de tous les mentors peut être filtrée (compétences, disponibilité, langue, etc)
-**RG39** : Un mentoré pourras contacter un mentor via une liste et demander si le mentor est disponible et si il a les compétences
-**RG40** : Le mentor peut accepter ou refuser la demande de mentorat
-**RG41** : Un historique des demandes de mentorat doit être établi
-**RG42** : Un mentoré ne peut pas réitérer une demande de mentorat auprès d'un mentor avant un certain délai lors d'un refus de ce dernier (anti-spam)
-**RG43** : Un mentoré ne peut pas faire plus de x demande auprès des mentors (anti-spam / quota)
-**RG44** : Un mentor peut indiquer qu'il n'est pas disponible ce qui le rendra invisible dans la liste filtrable
+**RG36** : Une liste de tous les mentors peut être disponible aux mentorés
+**RG37** : Une liste de tous les mentors peut être filtrée (compétences, disponibilité, langue, etc)
+**RG38** : Un mentoré pourras contacter un mentor via une liste et demander si le mentor est disponible et si il a les compétences
+**RG39** : Le mentor peut accepter ou refuser la demande de mentorat
+**RG40** : Un historique des demandes de mentorat doit être établi
+**RG41** : Un mentoré ne peut pas réitérer une demande de mentorat auprès d'un mentor avant un certain délai lors d'un refus de ce dernier (anti-spam)
+**RG42** : Un mentoré ne peut pas faire plus de x demande auprès des mentors (anti-spam / quota)
+**RG43** : Un mentor peut indiquer qu'il n'est pas disponible ce qui le rendra invisible dans la liste filtrable
